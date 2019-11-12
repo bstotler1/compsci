@@ -5,5 +5,11 @@ class Main{
         boolean onLine1 = line1.isOnLine(5, -2);
         System.out.println(slope1);
         System.out.println(onLine1);
+        APLine line2 = new APLine(-25, 40, 30);
+        double slope2 = line2.getSlope();
+        boolean onLine2 = line2.isOnLine(5, -2);
+        System.out.println(slope2);
+        System.out.println(onLine2);
+        
     }
 }
