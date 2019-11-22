@@ -11,11 +11,6 @@ class Replace{
             partBefore = sentence.substring(0,i);
             partAfter = sentence.substring(i + galesi.length());
             if(i%2==0){
-                even = true;
-            }else{
-                even = false;
-            }
-            if(even){
                 replacedGalesi = "Cat";
             }else{
                 replacedGalesi = "Zombie";
