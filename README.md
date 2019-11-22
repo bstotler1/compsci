@@ -38,6 +38,7 @@ Brayden Stotler's Repository of Java Programs for AP Computer Science A
 [Movie](https://repl.it/@BraydenStotler1/Movie)  
 
 ### **If Statements #3**
+[Phone](https://repl.it/@BraydenStotler1/Phone)  
 [Teacher Name](https://repl.it/@BraydenStotler1/Teacher-name)  
 [Order](https://repl.it/@BraydenStotler1/Order)  
 
