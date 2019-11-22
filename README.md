@@ -5,6 +5,20 @@ Brayden Stotler's Repository of Java Programs for AP Computer Science A
 
 ## **Repl.it Links**
 
+### **While Loops #3**
+[Space Counter](https://repl.it/@BraydenStotler1/Spaces)  
+[Replace Galesis](https://repl.it/@BraydenStotler1/Replace)  
+[Divide](https://repl.it/@BraydenStotler1/Divide-Program)  
+[Cube](https://repl.it/@BraydenStotler1/Cube-Program)  
+
+### **While Loops #2**
+[Positive Negative](https://repl.it/@BraydenStotler1/Positive-Negative-2)  
+[Magic Number](https://repl.it/@BraydenStotler1/Magic-Number)  
+
+### **While Loops #1**
+[Kroger](https://repl.it/@BraydenStotler1/Kroger)  
+[Sum](https://repl.it/@BraydenStotler1/Sum)  
+
 ### **If Statements Review**
 [Eggs](https://repl.it/@BraydenStotler1/Eggs)  
 [Unique Number](https://repl.it/@BraydenStotler1/Unique-Number)  
