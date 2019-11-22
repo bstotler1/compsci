@@ -9,7 +9,7 @@ class Replace{
         while (sentence.contains("Galesi")){
             i = sentence.indexOf("Galesi");
             partBefore = sentence.substring(0,i);
-            partAfter = sentence.substring(i + galesi.length());
+            partAfter = sentence.substring(i + galesi.length()); 
             if(i%2==0){
                 replacedGalesi = "Cat";
             }else{
